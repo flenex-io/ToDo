@@ -5,7 +5,6 @@ This To-Do app is a simple project built using only HTML, CSS, and JavaScript wi
 ## Features
 
 - **Add Tasks:** Enter a task in the input field and press enter or click the 'Add' button to add it to the list.
-- **Complete Tasks:** Click on a task to mark it as completed. Completed tasks are visually differentiated from active tasks.
 - **Delete Tasks:** Remove a task from the list by clicking the delete button next to the task.
 - **Local Storage:** Tasks are saved to the browser's local storage, so they persist even after refreshing the page or closing the browser.
 

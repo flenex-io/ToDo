@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-h1{
+h1 {
   font-size: 40px;
 }
 
@@ -45,6 +45,11 @@ input {
   font-size: 19px;
 }
 
+.text {
+  margin: 0 30%;
+  width: 40%;
+}
+
 .text ul {
   position: relative;
   background-color: #222;
@@ -69,7 +74,7 @@ input {
 }
 
 button {
-  background-color: #4caf50;
+  background-color: #4ebfdf;
   color: #fff;
   padding: 10px 20px;
   border: none;
@@ -79,5 +84,5 @@ button {
 }
 
 button:hover {
-  background-color: #45a049;
+  background-color: #43aecc;
 }

@@ -1,6 +1,6 @@
 # To-Do App
 
-This To-Do app is a simple project built using only HTML, CSS, and JavaScript without any additional libraries or frameworks.
+This To-Do app is a simple project built using only HTML, CSS,Bootstrap and JavaScript without any additional libraries or frameworks.
 
 ## Features
 
